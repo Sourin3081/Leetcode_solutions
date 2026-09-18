@@ -41,4 +41,16 @@ Solutions of every leetcode questions in mainly python and java
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
