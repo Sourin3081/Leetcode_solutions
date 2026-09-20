@@ -26,12 +26,14 @@ Solutions of every leetcode questions in mainly python and java
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sourin3081/Leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
@@ -73,4 +75,8 @@ Solutions of every leetcode questions in mainly python and java
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Sourin3081/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
