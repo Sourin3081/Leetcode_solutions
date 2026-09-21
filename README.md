@@ -18,6 +18,7 @@ Solutions of every leetcode questions in mainly python and java
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sourin3081/Leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Sourin3081/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Solutions of every leetcode questions in mainly python and java
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sourin3081/Leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3524-find-x-value-of-array-i](https://github.com/Sourin3081/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Solutions of every leetcode questions in mainly python and java
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/Sourin3081/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
