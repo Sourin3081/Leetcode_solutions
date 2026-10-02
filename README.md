@@ -11,11 +11,13 @@ Solutions of every leetcode questions in mainly python and java
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sourin3081/Leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sourin3081/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0788-rotated-digits](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -111,9 +113,14 @@ Solutions of every leetcode questions in mainly python and java
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sourin3081/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
