@@ -13,6 +13,7 @@ Solutions of every leetcode questions in mainly python and java
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sourin3081/Leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -131,6 +132,7 @@ Solutions of every leetcode questions in mainly python and java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -141,5 +143,6 @@ Solutions of every leetcode questions in mainly python and java
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sourin3081/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sourin3081/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
